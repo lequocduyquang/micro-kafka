@@ -1,0 +1,23 @@
+{
+  "name": "registry",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.15",
+    "express": "^4.17.3",
+    "lodash": "^4.17.21",
+    "redis": "^4.0.4",
+    "semver": "^7.3.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
