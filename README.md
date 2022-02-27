@@ -12,4 +12,4 @@ Medium post.
 - [User Service](./user-service)
 - [Order Service](./order-service)
 - [Email Service](./email-service)
-- [Registry Service](./registry-service) 
+- [Registry Service](./registry) 
