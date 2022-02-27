@@ -1,6 +1,7 @@
 # Example Microservices with Kafka
 This repository is demo about using Kafka in checkout order and send email for user.
-[2022-02-27]: (Updated) 
+
+### [2022-02-27]: (Updated) 
   - Add new service registry for microservices
   - Service registry using Redis caching
 
